@@ -1,4 +1,8 @@
 # Income Tax Calculator
+![Screenshot 2024-04-12 190214](https://github.com/gautam222001/taxal/assets/166819056/364168cf-c843-42f1-a58b-94c82b827d42)
+![Screenshot 2024-04-12 185939](https://github.com/gautam222001/taxal/assets/166819056/99561176-acc7-4343-b68b-10bc3d4eb181)
+![Screenshot 2024-04-12 190112](https://github.com/gautam222001/taxal/assets/166819056/c1828eb7-6099-47b2-ae91-3cd19c8d9cde)
+![Screenshot 2024-04-12 190137](https://github.com/gautam222001/taxal/assets/166819056/25df03e5-0300-4b9b-8bbd-46ed2561471b)
 
 This is a simple income tax calculator web application that calculates tax based on the provided income, extra income, age group, and applicable deductions.
 
